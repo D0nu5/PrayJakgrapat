@@ -39,15 +39,15 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 ### About Families Policy!!!!!
 ### Under 18 Years Old Not Relevant with Our App!!!!!
 
-Our meditation application is designed specifically for Buddhists who wish to meditate and improve their spiritual well-being, regardless of age. However, we do not target or market our application to individuals under the age of 18, and our application is not intended for use by children under the age of [insert age].
+Our meditation application is designed specifically for Buddhists who wish to meditate and improve their spiritual well-being, regardless of age. However, we do not target or market our application to individuals under the age of 18, and our application is not intended for use by children under the age of 18.
 
 ### Collection of Personal Information from Minors
 
-As our application is not intended for use by children under the age of [insert age], we do not knowingly collect any personal information from minors. If we become aware that we have inadvertently collected personal information from a minor, we will take appropriate steps to delete the information as soon as possible.
+As our application is not intended for use by children under the age of 18, we do not knowingly collect any personal information from minors. If we become aware that we have inadvertently collected personal information from a minor, we will take appropriate steps to delete the information as soon as possible.
 
 ### Parental Consent
 
-If a minor wishes to use our application, we recommend that they seek the permission and guidance of a parent or legal guardian. We do not require verifiable parental consent for the use of our application, as it is not intended for use by children under the age of [insert age]. However, we encourage parents and legal guardians to monitor their children's use of the internet and to take an active role in protecting their privacy.
+If a minor wishes to use our application, we recommend that they seek the permission and guidance of a parent or legal guardian. We do not require verifiable parental consent for the use of our application, as it is not intended for use by children under the age of 18. However, we encourage parents and legal guardians to monitor their children's use of the internet and to take an active role in protecting their privacy.
 
 ### Changes to this Privacy Policy
 
